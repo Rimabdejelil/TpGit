@@ -17,6 +17,8 @@ from flask import Flask, request , jsonify
 #from paddleocr import PaddleOCR
 import numpy as np
 import cv2
+import os
+
 import sys
 from PIL import Image
 import os
